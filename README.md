@@ -1,6 +1,6 @@
 # ChromePlug-XingXing
 
-Chrome插件：向网页中添加  心
+Chrome插件：向网页中添加 "心"
 
 [立即下载](https://raw.githubusercontent.com/ShenBao/ChromePlug-Xing/master/ChromePlug-Xing.crx)
 
