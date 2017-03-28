@@ -1,6 +1,6 @@
 {
-  "name": "小星星",
-  "description": "123123",
+  "name": "爱心",
+  "description": "shenbao",
   "version": "1.0",
   "manifest_version": 2,
     "browser_action": {
@@ -9,11 +9,11 @@
     },
   "content_scripts": [
     {
-      "matches": ["http://*/*", "https://*/*"],            //指定此域名下可以使用
+      "matches": ["*://*/*", "https://*/*","file:///*/*"],            //指定此域名下可以使用
       "js": ["jquery.min.js","jquery.lightbox_me.js","xx.js"]
     }
   ],
   "permissions": [
-    "tabs", "http://*/*", "https://*/*"
+    "tabs", "http://*/*", "https://*/*","file:///*/*"
   ]
 }
