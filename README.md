@@ -1,8 +1,8 @@
-# ChromePlug-Xin
+# ChromePlugIn-ClickHeart
 
 Chrome插件：向网页中添加 "心"
 
-[立即下载](https://raw.githubusercontent.com/ShenBao/ChromePlug-Xing/master/ChromePlug-Love.crx)
+[立即下载](https://raw.githubusercontent.com/ShenBao/ChromePlugIn-ClickHeart/master/ChromePlugIn-ClickHeart.crx)
 
 效果如图：(ps:[可以点击这里去看效果哟](https://shenbao.github.io))
 
