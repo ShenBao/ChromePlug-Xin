@@ -10,7 +10,7 @@
   "content_scripts": [
     {
       "matches": ["*://*/*", "https://*/*","file:///*/*"],            //指定此域名下可以使用
-      "js": ["jquery.min.js","jquery.lightbox_me.js","xx.js"]
+      "js": ["jquery.min.js","xx.js"]
     }
   ],
   "permissions": [
